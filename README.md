@@ -29,7 +29,7 @@ My personal repository.
 <a href="https://kaggle.com/nileshtamboli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nileshtamboli" height="30" width="40" /></a>
 <a href="https://fb.com/nilesh tamboli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilesh tamboli" height="30" width="40" /></a>
 <a href="https://instagram.com/nileshtamboli72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nileshtamboli72" height="30" width="40" /></a>
-<a href="https://hashnode.com/@nilstqm428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nilstqm428" height="30" width="40" /></a>
+<a href="https://hashnode.com/@nilstam428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nilstqm428" height="30" width="40" /></a>
 <a href="https://medium.com/@nilstam428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nilstam428" height="30" width="40" /></a>
 </p>
 
