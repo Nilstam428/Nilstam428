@@ -1,6 +1,4 @@
 # Nilesh428
-My personal repository.
-
 
 <h1 align="center">Hi 👋, I'm Nilesh Tamboli</h1>
 <h3 align="center">Data Science Engineer with 1+ year of experience, skilled in C, Python(Data Structures and Algorithms), SQL and Machine Learning. Proven track record of building solid projects, including GenAI Chat-Bot, Heart Disease Prediction Model and a File Manager System Using Python OS Module. Proficient in version control with Git and GitHub. Additionally experienced in HTML CSS and Javascript, with API implementation in real projects. Currently exploring Deep Learning to expand skill sets and future career opportunities.</h3>
