@@ -3,7 +3,7 @@ My personal repository.
 
 
 <h1 align="center">Hi 👋, I'm Nilesh Tamboli</h1>
-<h3 align="center">I'm an aspiring Data Science Engineer polishing skills related to AI ML. Currently I am doing internship at IBM. I have expertise in statistical analysis, machine learning, and data visualization. Proficient in Python, and SQL, with hands-on experience in building predictive models and interpreting complex datasets. Seeking an entry- level position to leverage analytical skills and contribute to data-driven decision-making in a dynamic and collaborative environment.</h3>
+<h3 align="center">Data Science Engineer with 1+ year of experience, skilled in C, Python(Data Structures and Algorithms), SQL and Machine Learning. Proven track record of building solid projects, including GenAI Chat-Bot, Heart Disease Prediction Model and a File Manager System Using Python OS Module. Proficient in version control with Git and GitHub. Additionally experienced in HTML CSS and Javascript, with API implementation in real projects. Currently exploring Deep Learning to expand skill sets and future career opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilstam428&label=Profile%20views&color=0e75b6&style=flat" alt="nilstam428" /> </p>
 
