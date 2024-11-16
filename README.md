@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [nilesh.in](nilesh.in)
+- 👨‍💻 All of my projects are available at [nilesh.in](#)
 
 - 📫 How to reach me **nileshtamboli428@gmail.com**
 
