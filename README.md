@@ -5,10 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilstam428&label=Profile%20views&color=0e75b6&style=flat" alt="nilstam428" /> </p>
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilstam428" alt="nilstam428" /></a> </p>
@@ -46,6 +43,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilstam428&" alt="nilstam428" /></p>
 
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
