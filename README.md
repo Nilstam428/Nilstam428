@@ -9,7 +9,7 @@
 
 - I create solutions for all AI ML requirements
 
-- All of my projects are available at [github.com/nilstam428](https://github.com/nilstam428?tab=repositories)
+- All of my projects are available at [GitHub](https://github.com/nilstam428?tab=repositories)
 
 - Reach out to me **nileshtamboli428@gmail.com**
 
@@ -28,18 +28,13 @@
 <p align="left">
 <a href="https://dev.to/nilesh_tamboli_05b426763f" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nilesh_tamboli_05b426763f" height="30" width="40" /></a>
 <a href="https://twitter.com/nilstam428" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilstam428" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilesh-tamboli-693491232/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilesh-tamboli-693491232/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nileshtamboli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nileshtamboli" height="30" width="40" /></a>
 <a href="https://kaggle.com/nileshtamboli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nileshtamboli" height="30" width="40" /></a>
 <a href="https://fb.com/nilesh tamboli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilesh tamboli" height="30" width="40" /></a>
 <a href="https://instagram.com/nileshtamboli72" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nileshtamboli72" height="30" width="40" /></a>
 <a href="https://hashnode.com/@nilstam428" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nilstqm428" height="30" width="40" /></a>
 <a href="https://medium.com/@nilstam428" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nilstam428" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilstam428&show_icons=true&locale=en&layout=compact" alt="nilstam428"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilstam428&show_icons=true&locale=en" alt="nilstam428" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilstam428&" alt="nilstam428" /></p>
 
